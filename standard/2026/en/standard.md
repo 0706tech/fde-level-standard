@@ -6,8 +6,7 @@
 
 | Item | Content |
 |---|---|
-| Title (Chinese) | FDE 职级体系 |
-| Title (English) | FDE Level System: Five Levels and Two Tracks |
+| Title | FDE Level System: Five Levels and Two Tracks |
 | Issued by | 0706 Technology (Suzhou) Co., Ltd. |
 | Date of issue | 2026-10-31 |
 | Date of implementation | 2026-10-31 |
