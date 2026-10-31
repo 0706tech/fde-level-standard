@@ -1,0 +1,24 @@
+name: 行业适配
+description: 提出某行业的能力描述与证据差异
+title: "[行业适配] "
+labels: ["industry-adapter"]
+body:
+  - type: input
+    id: industry
+    attributes:
+      label: 行业
+      description: 例如「非标机加」「跨境电商」
+    validations:
+      required: true
+  - type: textarea
+    id: difference
+    attributes:
+      label: 与通用描述的差异
+      description: 哪些能力项在该行业表现不同？举例说明
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: 证据样例（脱敏）
+      description: 该行业可提交的材料长什么样

@@ -1,0 +1,26 @@
+name: 提案
+description: 新增条款、调整门槛或修改判定方式
+title: "[提案] "
+labels: ["proposal"]
+body:
+  - type: textarea
+    id: background
+    attributes:
+      label: 背景
+      description: 现有条款在什么场景下不够用
+    validations:
+      required: true
+  - type: textarea
+    id: change
+    attributes:
+      label: 建议改动
+      description: 改哪一条、改成什么
+    validations:
+      required: true
+  - type: textarea
+    id: impact
+    attributes:
+      label: 影响范围
+      description: 会不会让已定级的人需要重新评审？如何兼容？
+    validations:
+      required: true

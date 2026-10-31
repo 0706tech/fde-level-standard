@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 300" width="1100" height="300" role="img" aria-label="FDE 职级标准五级阶梯">
+  <rect width="1100" height="300" fill="#FBFBF8"/>
+  <g>
+    <line x1="0" y1="40" x2="0" y2="240" stroke="#D9D6CE" stroke-width="1"/>
+    <rect x="24" y="150" width="172" height="90" fill="#E6F2F3" stroke="#0E7C86" stroke-width="1"/>
+    <text x="24" y="124" font-family="Menlo, monospace" font-size="20" font-weight="700" fill="#0B1215">L1</text>
+    <text x="24" y="142" font-family="PingFang SC, sans-serif" font-size="13" fill="#4B5563">初级 · 执行</text>
+    <text x="24" y="260" font-family="PingFang SC, sans-serif" font-size="12" fill="#0B1215">任务</text>
+  </g>
+  <g>
+    <line x1="220" y1="40" x2="220" y2="240" stroke="#D9D6CE" stroke-width="1"/>
+    <rect x="244" y="116" width="172" height="124" fill="#E6F2F3" stroke="#0E7C86" stroke-width="1"/>
+    <text x="244" y="90" font-family="Menlo, monospace" font-size="20" font-weight="700" fill="#0B1215">L2</text>
+    <text x="244" y="108" font-family="PingFang SC, sans-serif" font-size="13" fill="#4B5563">中级 · 独立</text>
+    <text x="244" y="260" font-family="PingFang SC, sans-serif" font-size="12" fill="#0B1215">场景</text>
+  </g>
+  <g>
+    <line x1="440" y1="40" x2="440" y2="240" stroke="#D9D6CE" stroke-width="1"/>
+    <rect x="464" y="82" width="172" height="158" fill="#E6F2F3" stroke="#0E7C86" stroke-width="1"/>
+    <text x="464" y="56" font-family="Menlo, monospace" font-size="20" font-weight="700" fill="#0B1215">L3</text>
+    <text x="464" y="74" font-family="PingFang SC, sans-serif" font-size="13" fill="#4B5563">高级 · 统筹</text>
+    <text x="464" y="260" font-family="PingFang SC, sans-serif" font-size="12" fill="#0B1215">项目群</text>
+  </g>
+  <g>
+    <line x1="660" y1="40" x2="660" y2="240" stroke="#D9D6CE" stroke-width="1"/>
+    <rect x="684" y="48" width="172" height="192" fill="#E6F2F3" stroke="#0E7C86" stroke-width="1"/>
+    <text x="684" y="22" font-family="Menlo, monospace" font-size="20" font-weight="700" fill="#0B1215">L4</text>
+    <text x="684" y="40" font-family="PingFang SC, sans-serif" font-size="13" fill="#4B5563">资深 · 体系</text>
+    <text x="684" y="260" font-family="PingFang SC, sans-serif" font-size="12" fill="#0B1215">组织体系</text>
+  </g>
+  <g>
+    <line x1="880" y1="40" x2="880" y2="240" stroke="#D9D6CE" stroke-width="1"/>
+    <rect x="904" y="14" width="172" height="226" fill="#E6F2F3" stroke="#0E7C86" stroke-width="1"/>
+    <text x="904" y="-12" font-family="Menlo, monospace" font-size="20" font-weight="700" fill="#0B1215">L5</text>
+    <text x="904" y="6" font-family="PingFang SC, sans-serif" font-size="13" fill="#4B5563">专家 · 方法</text>
+    <text x="904" y="260" font-family="PingFang SC, sans-serif" font-size="12" fill="#0B1215">行业方法</text>
+  </g>
+  <line x1="0" y1="240" x2="1100" y2="240" stroke="#0B1215" stroke-width="1.5"/>
+  <text x="8" y="290" font-family="PingFang SC, sans-serif" font-size="11" fill="#6B7280">FDE 职级标准（2026 版）· 五级双通道 · CC BY 4.0 · fde.0706.tech</text>
+</svg>

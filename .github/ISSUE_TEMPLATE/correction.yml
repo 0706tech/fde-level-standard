@@ -1,0 +1,31 @@
+name: 纠错
+description: 指出事实错误、口径不清或翻译问题
+title: "[纠错] "
+labels: ["correction"]
+body:
+  - type: input
+    id: section
+    attributes:
+      label: 涉及章节
+      description: 例如「第 4 章 4.3 L3 能力要求」
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: 问题描述
+      description: 哪一句有问题、为什么有问题
+    validations:
+      required: true
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: 建议改法
+      description: 直接给出建议文本最好
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: 依据来源
+      description: 有来源的纠错优先处理
