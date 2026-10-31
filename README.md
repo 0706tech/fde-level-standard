@@ -1,7 +1,8 @@
-# FDE 职级标准（2026 版） / FDE Level Standard
+# FDE 职级标准（2026 版）
 
-> 五级双通道：级别看**责任半径**，不看技术深度。
-> Five levels, two tracks: level = **scope of responsibility**, not technical depth.
+**中文** ｜ [English](./README.en.md)
+
+> 五级双通道：级别看**责任半径**，不看技术深度。面向 Forward Deployed Engineer 的能力分级标准。
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](./LICENSE)
 [![Version](https://img.shields.io/badge/version-2026.1-blue)](./standard/versions.json)
