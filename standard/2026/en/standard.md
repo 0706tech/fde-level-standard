@@ -10,8 +10,10 @@
 | Issued by | 0706 Technology (Suzhou) Co., Ltd. |
 | Date of issue | 2026-10-31 |
 | Date of implementation | 2026-10-31 |
-| Status | Enterprise standard (published) |
+| Status | Enterprise standard (self-declared and published; in force) |
 | Supersedes | First edition |
+| Declared on | Public service platform for enterprise standards (qybz.org.cn), searchable by standard number |
+| Date made public | 2026-10-31 23:52:55 |
 | Public address | https://fde.0706.tech/en/standard/ |
 
 ---
