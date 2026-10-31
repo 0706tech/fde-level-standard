@@ -7,6 +7,8 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](./LICENSE)
 [![Version](https://img.shields.io/badge/version-2026.1-blue)](./standard/versions.json)
 
+- 标准编号 / Standard No.：**Q/0706 001-2026**（企业标准，已自我声明公开）
+- 公示 / Declaration：企业标准信息公共服务平台 <https://www.qybz.org.cn/>，按编号可查；公开时间 2026-10-31 23:52:55
 - 官网 / Site：<https://fde.0706.tech/>
 - 版本 / Version：**2026.1**（生效 2026-10-31）
 - 维护 / Maintained by：零七零六（苏州）科技有限公司
